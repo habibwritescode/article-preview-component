@@ -19,7 +19,7 @@ main{
 }
 
 .hero-img{
-    background-image: url(../images/drawers.jpg);
+    background-image: url(./images/drawers.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
